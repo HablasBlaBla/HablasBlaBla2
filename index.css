@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: linear-gradient(to right, rgb(18, 168, 131), rgb(51, 123, 206));
+    background-color: aliceblue;
     display: flex;
     justify-content: center;
     align-items: center;
